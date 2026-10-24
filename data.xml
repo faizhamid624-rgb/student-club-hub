@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student_club_hub>
+    <!-- Member 3: Events data feed -->
+    <events>
+        <event id="E001">
+            <name>Leadership Workshop</name>
+            <category>Skills &amp; teamwork</category>
+            <description>Build your confidence and improve your teamwork skills.</description>
+            <image>leadership.jpeg</image>
+        </event>
+        <event id="E002">
+            <name>Sports Day</name>
+            <category>Sports &amp; recreation</category>
+            <description>Stay active and have fun with your friends on campus.</description>
+            <image>sport.jpeg</image>
+        </event>
+        <event id="E003">
+            <name>Community Service</name>
+            <category>Volunteer activities</category>
+            <description>Help others and make a positive difference together.</description>
+            <image>community.jpg</image>
+        </event>
+    </events>
+
+
+    <memberships>
+        <membership id="M001">
+            <club_name>Sports Club</club_name>
+            <option_value>sports</option_value>
+            <registration_section>membership</registration_section>
+        </membership>
+        <membership id="M002">
+            <club_name>Arts Club</club_name>
+            <option_value>arts</option_value>
+            <registration_section>membership</registration_section>
+        </membership>
+        <membership id="M003">
+            <club_name>Volunteer Club</club_name>
+            <option_value>volunteer</option_value>
+            <registration_section>membership</registration_section>
+        </membership>
+    </memberships>
+</student_club_hub>
